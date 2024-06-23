@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "username": "Cong",
+      "password": "123456",
+      "id": "6a0e"
+    },
+    {
+      "username": "Edgar",
+      "password": "123456",
+      "id": "bf38"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1718113896271",
+      "title": "JavaScript 新特性",
+      "body": "JavaScript ECMAScript 2022 标准引入了许多新特性，如 Object.hasOwn() 等。",
+      "author": "Cong"
+    },
+    {
+      "id": 1719035232278,
+      "title": "一文了解Vue3新变化",
+      "body": "自从Vue—next2020年9月18日发布的vue3.0版本，发展至今，现在主流的组件库基本都已经发布了支持vue3.0的版本，其他的生态也在不断的完善中，这两年随着Vue3的不断发展俨然已经成为了国内最火的前端框架之一，那Vue3相比较之前的其他版本的都有了什么新变化，添了什么新功能呢？这里做一个简单的总结，当然也有部分文档的传送门。",
+      "author": "Link"
+    },
+    {
+      "id": 1719035359511,
+      "title": " react18新特性",
+      "body": "React 18 引入了一些新特性，包括服务器端渲染（SSR）的改进、错误边界（Error Boundaries）的改进、Suspense的客户端渲染、Hydration的优化等。\n\n",
+      "author": "Cong"
+    },
+    {
+      "id": 1719035596405,
+      "title": " Angular新特性",
+      "body": "Angular 是一个开源的前端框架，它提供了许多新特性，包括依赖注入、接入视图、路由、模块化等。以下是一些Angular的新特性：\n\n组件：Angular 应用都是由组件构建的，每个组件都包含一个 HTML 模板、一个 CSS 样式表和一个 TypeScript 类。\n\n模块：Angular 使用模块来组织应用，每个模块都可以包含组件、服务等。\n\n数据绑定：Angular 提供了强大的数据绑定功能，可以将模型和视图直接绑定，使得代码更加简洁、易于维护。\n\n指令：Angular 中的指令是一个扩展 HTML 功能的属性，可以用来创建自定义的 HTML 标签。\n\n服务：Angular 中的服务是一个可注入到组件中的类，用于处理应用的业务逻辑。\n\n路由：Angular 的路由可以让应用具有多个视图，并且可以定义不同的导航路径。\n\n变更检测：Angular 提供了变更检测机制，可以自动检测组件数据的变化并更新视图。\n\n动画：Angular 提供了动画模块，可以用来制作复杂的动画效果。\n\n可测试性：Angular 提供了丰富的测试工具，可以编写端到端的测试。",
+      "author": "Cong"
+    }
+  ]
+}
